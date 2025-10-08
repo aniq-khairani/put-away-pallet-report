@@ -5,8 +5,7 @@ This Power BI report monitors daily **Goods Receipt Notes (GRN)** and **Put Away
 It provides clear visibility into items received and their corresponding put-away status, helping warehouse teams identify pending tasks efficiently.
 
 ### 📊 Dashboard Preview
-![Dashboard Page 1](images/dc-putaway-pallet-p1.png)
-![Dashboard Page 2](images/dc-putaway-pallet-p2.png)
+![Dashboard Page 1](images/dc-put-away-pallet.png)
 
 ### 🚀 Live Demo
 🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=example)
